@@ -1,3 +1,5 @@
+The To-Do List App is a simple and intuitive tool designed to help users organize and manage tasks effectively. Built with React and Next.js, this app allows users to add, view, and track tasks with ease, improving productivity and ensuring important tasks aren’t forgotten.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
